@@ -20,4 +20,4 @@
     
 </div>
   
-![snake gif](https://github.com/naeldev17/main.yml/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/naeldev17/naeldev17/blob/output/github-contribution-grid-snake.svg)
